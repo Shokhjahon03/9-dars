@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-     <Posts/>
+      <Posts />
+      <h1>salom</h1>
     </>
   )
 }
